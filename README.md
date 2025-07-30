@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a student studying Data Science at UC Berkeley College of Computing Data Science and Society, planning on minoring in Haas (Business Admin) with a Domain Emphasis on Urban Science. I have a passion for data analysis and anything coding related. Recently, I've been looking into open-source projects to work on.
 
 * 🌍  I'm based in San Francisco, California
-* 🖥️  See my portfolio at [Website]([https://sidharth-05.github.io](https://sidharthmallela.framer.website))
+* 🖥️  See my portfolio at [Website]([https://sidharthmallela.framer.website])
 * ✉️  You can contact me at [snmallela@berkeley.edu](mailto:snmallela@berkeley.edu)
 * ⚡  I love music - especially ROCK N ROLL!
 
